@@ -37,3 +37,6 @@ J
 src/components/Counter.vue,b/a/ba82ba7e1d1408c6a672f20997a90a1885526582
 G
 guides/vuejs-example.md,f/b/fb8d02a667c02ee22940b7ab42485785eb05308d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
